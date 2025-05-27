@@ -227,7 +227,7 @@ I'm a **Data Engineer** and **Data Scientist** with Ph.D. studies at the Univers
 
 ### 💭 *"Building scalable data systems, transforming algorithms into solutions, and turning research into real-world impact."*
 
-⭐ **Star this repository if you find my work interesting!**
+⭐ **Feel free to fork my repositories and star them if you find them interesting!**
 
 </div>
 
